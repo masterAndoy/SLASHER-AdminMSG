@@ -1,6 +1,4 @@
-Para sa gusto maging Admin or Sub-Admin
-Pm me nlng👇👇
-
-https://m.me/petevalientejr
-
-Ty
+{
+    "Message_version": "1",
+    "My_Message": "Thank You for TRUSTING US."
+}
