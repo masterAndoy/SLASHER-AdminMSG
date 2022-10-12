@@ -1,9 +1,11 @@
 {
-    "Message_version": "4",
-    "My_Message": "DOWN PA RIN PO ANG SMART TNT SUN NOLOAD PO.
-HOPEFULLY MAGKAKAROON NA MAMAYA.. STAY TINED NLNG PO..
-PLS SHARE SA FAMILY AND FRIENDS PO NYO. 
-💯GTM NOLOAD IP STILL NO BLOCK
-👉GTM NOLOAD 1TAP CONNECT. Siguro may blocking(use extra sim)
-Thank You for TRUSTING US."
+    "Message_version": "5",
+    "My_Message": "TIPS PO PARA AA MGA NAKA PROMONET
+📌 Piliin Ang AUTO SELECT SERVER para Ang vpn app na mismo maghanap Ng server nyo📌Para Naman sa mahilig mag ONLINE GAMING, PILIIN Ang Gaming Server.
+✅Suggested Promo
+💯UnLitiktok 199 Good for 30days (pwede lagay sa modem at buong family nyo Ang makagamit)
+👉 For more queries, pm me directly
+🔗https://m.me/petevalientejr
+
+Your Connection matters to Us."
 }
