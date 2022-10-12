@@ -1,4 +1,9 @@
 {
-    "Message_version": "3",
-    "My_Message": "Salamat sa paghintay na maayus Ang App na ito. MAARING GUMAMIT NG EXTRA SIM PARA SA MGA NOLOAD NA TRICKS PARA MAIWASAN NA MASIRA ANG PERSONAL SIM NYO..Thank You for TRUSTING US."
+    "Message_version": "4",
+    "My_Message": "DOWN PA RIN PO ANG SMART TNT SUN NOLOAD PO.
+HOPEFULLY MAGKAKAROON NA MAMAYA.. STAY TINED NLNG PO..
+PLS SHARE SA FAMILY AND FRIENDS PO NYO. 
+💯GTM NOLOAD IP STILL NO BLOCK
+👉GTM NOLOAD 1TAP CONNECT. Siguro may blocking(use extra sim)
+Thank You for TRUSTING US."
 }
