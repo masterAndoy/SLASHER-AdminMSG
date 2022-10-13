@@ -1,9 +1,11 @@
 {
-    "Message_version": "5",
-    "My_Message": "TIPS PO PARA AA MGA NAKA PROMONET
-📌 Piliin Ang AUTO SELECT SERVER para Ang vpn app na mismo maghanap Ng server nyo📌Para Naman sa mahilig mag ONLINE GAMING, PILIIN Ang Gaming Server.
-✅Suggested Promo
-💯UnLitiktok 199 Good for 30days (pwede lagay sa modem at buong family nyo Ang makagamit)
+    "Message_version": "6",
+    "My_Message": "📌📌BASA📌📌
+    PAALALA PO SA MGA GUMAGAMIT NG GTM NOLOAD 1TAP..
+    ✅MAY BLOCKING
+    ✅TRY NYO MAG IP HUNT BAGO MAG CONNECT
+    IP HUNTER LINK:
+    👉https://ce7ven.com/GTM-IP-HUNTER.apk
 👉 For more queries, pm me directly
 🔗https://m.me/petevalientejr
 
