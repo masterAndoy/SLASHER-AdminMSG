@@ -1,8 +1,8 @@
 {
-    "Message_version": "11",
+    "Message_version": "12",
     "My_Message": "📌📌BASA📌📌
     
-Enjoy REMODING MY APP?
+I will reboot all SERVERS and you will get DISCONNECTED. This will take for tleast 5-7minutes.. 
     
 👉 For more queries, pm me directly
 🔗https://m.me/petevalientejr
