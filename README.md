@@ -1,21 +1,16 @@
 {
-    "Message_version": "13",
+    "Message_version": "14",
     "My_Message": "📌📌BASA📌📌
  
-🆕🔛 VERY SOON
-   
-✅🔜.. MORE SERVERS TO BE ADDED!!
+NEW APP WITH UNLIMITED TIME
 
-✅⏩ CloudFront SERVERS
+MediaFire Link👇
+https://www.mediafire.com/file/h97o39ji457qvjt/Ce7venPro.apk/file
 
-Just WAIT for the NEW APP to be Upload..
-
-📌UNLIMITED TIME
-
-📌CLAIM ADS BY JANUARY 1, Enjoy BROWSING
+DirectLink
+https://ce7venssh.shop/Ce7venPro.apk
     
 👉 For more queries, pm me directly
-
 🔗https://m.me/petevalientejr
 
 Your Connection is OUR PRIORITY."
