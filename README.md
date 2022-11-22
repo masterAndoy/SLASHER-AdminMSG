@@ -1,12 +1,14 @@
 {
-    "Message_version": "17",
+    "Message_version": "18",
     "My_Message": "📌📌BASA📌📌
  
-DONE REBOOTING SERVERS.
+⚠️IMPORTANT⚠️
 
-2-4 Watch Ads a Day goods na goods na😊
+LATER CLAIM ADS WILL RESUME, SO USE YOUR COINS WISELY. 
 
-🦾PLZ DONT FORGET TO WATCH ADS KAHIT NAKA UNLIMITED TIME PO TAYO
++3 COINS FOR EVERY CLAIM ADS..
+
+THANK YOU FOR YOUR LOYALTY AND SUPPORT..
 
 MediaFire Link👇
 https://www.mediafire.com/file/157xtx6re04fcrw/Ce7venPro.apk/file
