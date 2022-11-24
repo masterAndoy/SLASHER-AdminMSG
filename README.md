@@ -1,12 +1,10 @@
 {
-    "Message_version": "18",
+    "Message_version": "19",
     "My_Message": "📌📌BASA📌📌
  
 ⚠️IMPORTANT⚠️
 
-LATER CLAIM ADS WILL RESUME, SO USE YOUR COINS WISELY. 
-
-+3 COINS FOR EVERY CLAIM ADS..
+Update your APK.. CloudFront Replaced!!
 
 THANK YOU FOR YOUR LOYALTY AND SUPPORT..
 
