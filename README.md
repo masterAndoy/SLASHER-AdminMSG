@@ -1,12 +1,13 @@
 {
-    "Message_version": "19",
+    "Message_version": "20",
     "My_Message": "📌📌BASA📌📌
  
 ⚠️IMPORTANT⚠️
 
-Update your APK.. CloudFront Replaced!!
+I will reboot ALL SERVERS. IT WILL TAKE UP TO 5 MINUTES.
 
-THANK YOU FOR YOUR LOYALTY AND SUPPORT..
+YOU MIGHT GET DISCONNECTED, RECONNECT AFTER 20SECONDS
+
 
 MediaFire Link👇
 https://www.mediafire.com/file/157xtx6re04fcrw/Ce7venPro.apk/file
