@@ -1,12 +1,14 @@
 {
-    "Message_version": "21",
+    "Message_version": "22",
     "My_Message": "📌📌BASA📌📌
  
 ⚠️IMPORTANT⚠️
 
-WAIT LANG. MAG REUPDATE LANG AKO SA CLOUDFRONT..
+I will REBOOT ALL SERVERS NOW. 
 
-CHILL SA GUMAGAMIT NG STS NOLOAD..
+STAY TUNED!!
+
+WAIT FOR 1MINUTE TO RECONNECT
 
 MediaFire Link👇
 https://www.mediafire.com/file/157xtx6re04fcrw/Ce7venPro.apk/file
