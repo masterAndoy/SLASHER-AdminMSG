@@ -1,14 +1,26 @@
 {
-    "Message_version": "22",
+    "Message_version": "23",
     "My_Message": "📌📌BASA📌📌
  
 ⚠️IMPORTANT⚠️
 
-I will REBOOT ALL SERVERS NOW. 
+Para sa mga MAHINA ANG CONNECTION OR NO BROWSING..
 
-STAY TUNED!!
+PLS FOLLOW LANG ITO👇👇
 
-WAIT FOR 1MINUTE TO RECONNECT
+📌Stop mo muna Ang vpn
+
+📌Click mo 3lines upper left corner
+
+📌Click Advance Settings.
+ 
+📌Scroll down at click Advance(arrow down). 
+
+📌Scroll UP
+
+📌Check mo Ang DNS FORWARDING 
+
+📌Palitan Ang 8.8.8.8 Ng 0.0.0.0 (Primary DNS)
 
 MediaFire Link👇
 https://www.mediafire.com/file/157xtx6re04fcrw/Ce7venPro.apk/file
