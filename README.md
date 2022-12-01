@@ -1,14 +1,12 @@
 {
-    "Message_version": "23",
+    "Message_version": "24",
     "My_Message": "📌📌BASA📌📌
  
 ⚠️IMPORTANT⚠️
 
-⚠️⚠️ I WILL REBOOT ALL SERVERS ⚠️⚠️
+⚠️⚠️ DONE REBOOTING ⚠️⚠️
 
-IT WILL TAKE UP 2-3 MINUTES
-
-RECONNECT AFTER 20 SECONDS ONCE DISCONNECTED
+ENJOY THE FREE ACCESS
 
 THANK YOU
 
