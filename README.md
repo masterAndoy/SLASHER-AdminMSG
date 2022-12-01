@@ -4,23 +4,13 @@
  
 ⚠️IMPORTANT⚠️
 
-Para sa mga MAHINA ANG CONNECTION OR NO BROWSING..
+⚠️⚠️ I WILL REBOOT ALL SERVERS ⚠️⚠️
 
-PLS FOLLOW LANG ITO👇👇
+IT WILL TAKE UP 2-3 MINUTES
 
-📌Stop mo muna Ang vpn
+RECONNECT AFTER 20 SECONDS ONCE DISCONNECTED
 
-📌Click mo 3lines upper left corner
-
-📌Click Advance Settings.
- 
-📌Scroll down at click Advance(arrow down). 
-
-📌Scroll UP
-
-📌Check mo Ang DNS FORWARDING 
-
-📌Palitan Ang 8.8.8.8 Ng 0.0.0.0 (Primary DNS)
+THANK YOU
 
 MediaFire Link👇
 https://www.mediafire.com/file/157xtx6re04fcrw/Ce7venPro.apk/file
