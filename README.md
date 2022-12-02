@@ -1,14 +1,14 @@
 {
-    "Message_version": "26",
+    "Message_version": "27",
     "My_Message": "📌📌BASA📌📌
  
 ⚠️IMPORTANT⚠️
 
 ⚠️⚠️ SERVER REBOOT SCHEDULE ⚠️⚠️
 
-👉YOU MIGHT GET DISCONNECTED..
+👉DONE REBOOTING
 
-👉RECONNECT AFTER 10-20SECONDS
+ENJOY YOUE FREE ACCESS
 
 THANK YOU
 
