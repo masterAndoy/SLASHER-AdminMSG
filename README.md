@@ -1,14 +1,16 @@
 {
-    "Message_version": "27",
+    "Message_version": "28",
     "My_Message": "📌📌BASA📌📌
  
 ⚠️IMPORTANT⚠️
 
-⚠️⚠️ SERVER REBOOT SCHEDULE ⚠️⚠️
+⚠️⚠️ GtM 1TAP ⚠️⚠️
 
-👉DONE REBOOTING
+👉INGAT PO SA MGA USERS NG GTM 1TAP
 
-ENJOY YOUE FREE ACCESS
+✅WAG GUMAMIT NG PERSONAL SIM
+
+👉MAY NA BLOCK NA PO. PREFER TO USE EXTRA SIM!!
 
 THANK YOU
 
