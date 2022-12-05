@@ -1,16 +1,16 @@
 {
-    "Message_version": "28",
+    "Message_version": "29",
     "My_Message": "📌📌BASA📌📌
  
 ⚠️IMPORTANT⚠️
 
-⚠️⚠️ GtM 1TAP ⚠️⚠️
+⚠️⚠️ SCHEDULE REBOOT ⚠️⚠️
 
-👉INGAT PO SA MGA USERS NG GTM 1TAP
+Rebooting SERVERS..
 
-✅WAG GUMAMIT NG PERSONAL SIM
+YOU MAY GET DISCONNECTED
 
-👉MAY NA BLOCK NA PO. PREFER TO USE EXTRA SIM!!
+CONNECT AGAIN AFTER 20 SECONDS ONCE DISCONNECTED
 
 THANK YOU
 
