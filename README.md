@@ -1,7 +1,13 @@
 {
-    "Message_version": "32",
+    "Message_version": "33",
     "My_Message": "📌📌BASA📌📌
- 
+
+⚠️⚠️ ATTENTION ⚠️⚠️
+
+CloudFront Dead, Palitan ko lang.
+
+Wait for the UPDATE
+
 ⚠️⚠️ CONNECTION TIPS ⚠️⚠️
 
 👉SLOW CONNECTION AFTER UPDATE OR REBOOT?
