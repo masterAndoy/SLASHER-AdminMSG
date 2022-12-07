@@ -1,5 +1,5 @@
 {
-    "Message_version": "31",
+    "Message_version": "32",
     "My_Message": "📌📌BASA📌📌
  
 ⚠️⚠️ CONNECTION TIPS ⚠️⚠️
@@ -24,7 +24,7 @@ PLS FOLLOW LANG ITO👇👇
 
 📌Check mo Ang DNS FORWARDING 
 
-📌Palitan Ang 8.8.8.8 Ng 0.0.0.0 (Primary DNS)
+📌Palitan Ang 8.8.8.8 Ng 9.9.9.9 (Primary DNS)
 
 ✅AIRPLANE MODE AND CONNECT AGAIN
 
