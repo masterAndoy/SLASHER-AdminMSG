@@ -1,12 +1,12 @@
 {
-    "Message_version": "34",
+    "Message_version": "35",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-CloudFront Dead, Palitan ko lang.
+✅CLOUDFRONT REPLACED
 
-Wait for the UPDATE
+✅STS NOLOAD IS NOW ONLINE
 
 ⚠️⚠️ CONNECTION TIPS ⚠️⚠️
 
