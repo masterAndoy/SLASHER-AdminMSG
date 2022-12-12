@@ -1,12 +1,12 @@
 {
-    "Message_version": "35",
+    "Message_version": "36",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-✅CLOUDFRONT REPLACED
+👉MAG REBOOT AKO NG SERVERS. BAKA MA DC KAYO
 
-✅STS NOLOAD IS NOW ONLINE
+RECONNECT NLNG AFTER 20 SECONDS
 
 ⚠️⚠️ CONNECTION TIPS ⚠️⚠️
 
