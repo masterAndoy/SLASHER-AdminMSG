@@ -1,8 +1,11 @@
 {
-    "Message_version": "37",
+    "Message_version": "38",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
+
+CHANGE CLOUDFRONT LWNG AKO GUYS SA STS NOLOAD
+. TIIS LANG MUNA SA GTM NOLOAD
 
 👉First Thing To Do👈
 
