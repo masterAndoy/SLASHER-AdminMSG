@@ -1,19 +1,18 @@
 {
-    "Message_version": "38",
+    "Message_version": "39",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-CHANGE CLOUDFRONT LWNG AKO GUYS SA STS NOLOAD
-. TIIS LANG MUNA SA GTM NOLOAD
+BUSY NA BA ANG LAHAT?
 
-👉First Thing To Do👈
+MERRY CHRISTMAS SA ATING LAHAT!!
 
-📌I don't want you to LEFT BEHIND
+SANA BIGYAN PA TAYO NG MATIBAY NA PUNDASYON
 
-📌Either you use or not, Always check your APP if there is an Update
+SA ATING PAMILYA AT MAGANDANG KALUSUGAN..
 
-📌I will REUPDATE the APP every 8am pH TIME.
+STAY SAFE EVERYONE!!
 
 💯Enjoy your FREE ACCESS
 
