@@ -1,18 +1,25 @@
-{
-    "Message_version": "39",
+Ni{
+    "Message_version": "40",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
+Para sa mga MAHINA ANG CONNECTION OR NO BROWSING..
 
-BUSY NA BA ANG LAHAT?
+PLS FOLLOW LANG ITO👇👇
 
-MERRY CHRISTMAS SA ATING LAHAT!!
+📌Stop mo muna Ang vpn
 
-SANA BIGYAN PA TAYO NG MATIBAY NA PUNDASYON
+📌Click mo 3lines upper left corner 
 
-SA ATING PAMILYA AT MAGANDANG KALUSUGAN..
+📌Click Advance Settings. 
 
-STAY SAFE EVERYONE!!
+📌Scroll down at click Advance(arrow down). 
+
+📌Scroll DOWN
+
+📌Check mo Ang DNS FORWARDING 
+
+📌Palitan Ang 8.8.8.8 Ng 9.9.9.9 (Primary DNS)
 
 💯Enjoy your FREE ACCESS
 
