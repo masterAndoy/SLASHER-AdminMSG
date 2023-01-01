@@ -1,27 +1,19 @@
 Ni{
-    "Message_version": "40",
+    "Message_version": "41",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
-Para sa mga MAHINA ANG CONNECTION OR NO BROWSING..
+Sa LAHAT po Ng USERS Ng APP na ito..
 
-PLS FOLLOW LANG ITO👇👇
+Pa downlaod Ng OFFICIAL NATIN
 
-📌Stop mo muna Ang vpn
+Playstore Link:
+https://play.google.com/store/apps/details?id=ceven.tunnel.vpn.ph
 
-📌Click mo 3lines upper left corner 
+MediaFire Link:
+https://www.mediafire.com/file/855fztnnkjxg1yn/7TUNNEL+Pro+[3.9].apk/file
 
-📌Click Advance Settings. 
-
-📌Scroll down at click Advance(arrow down). 
-
-📌Scroll DOWN
-
-📌Check mo Ang DNS FORWARDING 
-
-📌Palitan Ang 8.8.8.8 Ng 9.9.9.9 (Primary DNS)
-
-💯Enjoy your FREE ACCESS
+CE7VEN PRO WILL UNDER MAINTENANCE NEXT WEEK.
 
 👉 For more queries, pm me directly
 🔗https://m.me/petevalientejr
