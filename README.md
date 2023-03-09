@@ -1,28 +1,10 @@
 Ni{
-    "Message_version": "42",
+    "Message_version": "43",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-📌PLAYSTORE UPDATE 7TUNNEL PRO
-
-Punta Ng Playstore..
-
-Wag click Ang OPEN
-
-Click 7tunnel Pro
-
-Tapos UPDATE..
-
-Latest App Version: 4.3
-
-Latest Config Version: 5.3
-
-✅UPGRADED APP SECURITY
-
-✅ANTI SNIFF (SANA😁)
-
-https://play.google.com/store/apps/details?id=ceven.tunnel.vpn.ph
+📌DONE REBOOTING
 
 💯Enjoy your FREE ACCESS
 
